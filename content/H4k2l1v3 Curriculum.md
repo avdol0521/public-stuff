@@ -147,7 +147,7 @@ Outline :
 
 39. Kioptrix Installation
     
-- Kiotrix Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
+- Kioptrix Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 #### Day 12 : [Nmap Basics Bangla Tutorial | Learn the Fundamentals of Nmap | Ethical Hacking for Beginners](https://youtu.be/CdS0OKbeKxk?si=KqdNAnojxoA-9N6c)
 
 Outline : 
