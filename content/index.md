@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: well hello there
+tags:
+  - main
 ---
+### hey there! this is Vorpidi's notekeeping vault where he keeps his notes and stuff :D
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+links to key files:
+- [[H4k2liv3]] 
+- [[myOwnTime]] 
+<br>
+<img src="vorp2.png" style="margin-left:33%;">
