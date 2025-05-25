@@ -1,3 +1,8 @@
+---
+title: setting up quartz with obsidian to make a publicly accessible vault on the internet
+tags:
+  - child
+---
 #### **make sure you got nodeJS, git & obsidian installed and have a github account beforehand**
 - go to the folder where where you wanna keep the vault 
 - git clone the quartz repo and do this goofy ahh stuff: 
