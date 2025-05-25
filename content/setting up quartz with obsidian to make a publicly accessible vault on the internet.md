@@ -81,7 +81,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
-- go to the github repo and go to settings>pages and set Build and deployment source to github actions
+- go to the github repo and go to settings>pages and set Build and deployment source to `github actions`
 - more terminal yay fun:
 ```sh fold title:yes
 cd ../..
