@@ -6,7 +6,7 @@ tags:
 #### **make sure you got nodeJS, git & obsidian installed and have a github account beforehand**
 - go to the folder where where you wanna keep the vault 
 - git clone the quartz repo and do this goofy ahh stuff: 
-```powershell fold
+```sh fold
 git clone https://github.com/jackyzha0/quartz.git
 mv quartz vaultName
 cd vaultName
@@ -15,7 +15,7 @@ npx quartz create
 ```
 - create a github repo (no readme or lisence or anything just a bare repo) and copy the remote link
 - back to the terminal again:
-```powershell fold title:dob
+```sh fold title:dob
 git remote -v
 git remote set-url origin REMOTE-URL
 git remote add upstream https://github.com/jackyzha0/quartz.git (for the upstream. it should already be there but just in case)
@@ -23,18 +23,18 @@ npx quartz sync --no-pull
 ```
 - open the folder as a vault and set it up as you usually would 
 - terminal againnnnnn: 
-```powershell fold title:dob
+```sh fold title:dob
 npx quartz sync
 npx quartz build --serve (should shit out a localhost_8080 link that will give a basic preview of a barebones hosted page)
 ```
 - now we actually host the thing with github pages
 - terminal again yayyyyy:
-```powershell fold title:dob
+```sh fold title:dob
 cd .\.github\workflows\
 notepad deploy.yml
 ```
 - then paste this in and save:
-```fold title:yes
+```yml fold title:yes
 name: Deploy Quartz site to GitHub Pages
  
 on:
@@ -83,7 +83,7 @@ jobs:
 ```
 - go to the github repo and go to settings>pages and set Build and deployment source to github actions
 - more terminal yay fun:
-```powershell fold title:yes
+```sh fold title:yes
 cd ../..
 npx quartz sync
 ```
