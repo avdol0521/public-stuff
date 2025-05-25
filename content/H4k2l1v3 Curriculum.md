@@ -6,6 +6,9 @@ tags:
 # Hey there. If Vorpidi shared this to you and you're new. This is the curriculum of the H4k2l1v3 community. Something you'll be very familiar with if you manage to join us (cult ahh sentence lmao). If you haven't joined us already and plan to. make sure to complete from Day 1 to at the very least Day 12 and note it down in Notion or a similar note taking software such as obsidian and host it publicly (see [[setting up quartz with obsidian to make a publicly accessible vault on the internet]] to know how to host obsidian vaults like i did here) so you can submit it as proof when the selection process begins. the videos are just there to give you a basic overview of the various topics you'll need to cover and in no way teaches you everything. make sure to do your own research on the topics
 - see the first 15 minutes of this video to get an understanding of how we operate and what you will be doing once you join us: https://youtu.be/u91CS3oOvnI?t=25
 - make sure to join our discord server as well. its where we do everything: https://discord.gg/yyegxWyB
+- oh and the Bangla videos (upto day 21) are mostly a mirror of these videos so you can follow these instead if you prefer English:
+	- part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM
+	- part 2: https://www.youtube.com/watch?v=sH4JCwjybGs
 ## Stage 1 : Basics
 --- 
 #### Day 1 : [Introduction to Ethical Hacking in Bangla | Beginner's Guide](https://www.youtube.com/watch?v=n3U_hA9BsEY&list=PL-9X-2c60pK8mmKlw6YYqqWBfUCAisj4Z&index=1)
@@ -20,6 +23,9 @@ Outline : 
     
 4. Important Tools For Note Keeping
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/introtoresearch
+- https://tryhackme.com/room/careersincyber
 #### Day 2 : [Ethical Hacking in Bangla | IP and MAC Address Explained](https://youtu.be/HZbOYt5k6_U?si=4oFZXqTL2zY-ci4m)
 
 Outline :
@@ -34,12 +40,15 @@ Outline :
 
 Outline :
 
-8. OSI Model
+8. OSI and the TCP/IP Model
     
 9. TCP, UDP & Three Way Handshake
     
-10.  Common Ports And Protocols
+10.  Common Ports And Protocols (make sure to get a thorough understanding of what each protocol does and how they work at a low level)
     
+11. Subnetting (you'll have to manually do subnetting calculations. prepare accordingly)
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/introtonetworking (task 1 - 4)
 #### Day 4 : [Kali Linux for Beginners | Ethical Hacking Tutorial in Bangla](https://youtu.be/G8IWZT0gI0U?si=i07-C8Xdz2pJNx-e)
 
 Outline :
@@ -56,6 +65,9 @@ Outline :
     
 16. Navigating File System
     
+##### some resources added by Vorpidi to the curriculum:
+- https://labex.io/skilltrees/linux
+- https://tryhackme.com/room/linuxfundamentalspart1
 #### Day 5 : [User, Privileges & File System in Kali Linux | Ethical Hacking for Beginners in Bangla](https://youtu.be/-0d0rlvo47w?si=ejYLfcCLRAPBPv4f)
 
 Outline :
@@ -86,12 +98,17 @@ Outline :
 
 25. 5 stages of ethical hacking
     
-26. Passive recon
+26. Passive and active recon
     
 27. Identifying our target
     
 28. Breached Credentials
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/hackermethodology 
+- https://tryhackme.com/room/passiverecon 
+- https://tryhackme.com/room/activerecon 
+- https://tryhackme.com/room/ohsint 
 #### Day 8 : [Ethical Hacking in Bangla | SubDomain Enumeration explained for beginners](https://youtu.be/uu6hZntanfY?si=Uk1IZQ53ae57u1yg)
 
 Outline :
@@ -128,8 +145,9 @@ Outline :
 
 Outline :
 
-39. Installing Kioptrix
+39. Kioptrix Installation
     
+- Kiotrix Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 #### Day 12 : [Nmap Basics Bangla Tutorial | Learn the Fundamentals of Nmap | Ethical Hacking for Beginners](https://youtu.be/CdS0OKbeKxk?si=KqdNAnojxoA-9N6c)
 
 Outline : 
@@ -204,6 +222,7 @@ Outline :
     
 56. Academy exploitation technique
     
+- Academy Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 #### Day 20 : [TCM Security Capstone Dev Walkthrough in Bangla](https://youtu.be/XHYL88-ygWk?si=nTqB0i7uRiahZgtX)
 
 DownLoadLink : [PEH Capstone](https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH)
@@ -214,6 +233,7 @@ Outline :
     
 58. Dev exploitation
     
+- Dev Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 #### Day 21 : [TCM Security Capstone BlackPearl Walkthrough in Bangla | pJPT, eJPT, Ceh Practical Bangla Guide](https://youtu.be/tLufiXsKOVc?si=6uKMEbPKw134wu9r)
 
 DownLoadLink: [PEH Capstone](https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH)
@@ -224,6 +244,7 @@ Outline :
     
 60. Blackpearl exploitation
     
+- Blackpearl Download Link: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 ## Stage 3 : Prep for CEH and eJPT
 --------------------------------------------------------------------------------
 #### Day 22 : [How to Create a TryHackMe Account & Get Started | Ethical Hacking for Beginners in Bangla](https://youtu.be/kvvSNJGt3cE?si=o5dzizrEZM02ER9y)
