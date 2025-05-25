@@ -224,7 +224,7 @@ Outline :
     
 60. Blackpearl exploitation
     
-## Stage 3 : Prep for CEH and [[eJPT]]
+## Stage 3 : Prep for CEH and eJPT
 --------------------------------------------------------------------------------
 #### Day 22 : [How to Create a TryHackMe Account & Get Started | Ethical Hacking for Beginners in Bangla](https://youtu.be/kvvSNJGt3cE?si=o5dzizrEZM02ER9y)
 
@@ -411,7 +411,7 @@ Room Link : [Wreath](https://tryhackme.com/r/room/wreath) (41-46)
 Room Link : [TryHackMe | VulnNet: Internal](https://tryhackme.com/r/room/vulnnetinternal)
 ## Stage 4 : Active Directory
 -----------------------------------------------------------------------
-this part's extra. isn't really required for [[eJPT]] or CEH. but it is helpful for the OSCP, PNPT, CRTO, CPTS exams 
+this part's extra. isn't really required for eJPT or CEH. but it is helpful for the OSCP, PNPT, CRTO, CPTS exams 
 #### Day 64 : 
 
 Outline : 
