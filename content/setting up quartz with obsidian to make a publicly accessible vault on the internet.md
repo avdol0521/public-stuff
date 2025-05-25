@@ -1,5 +1,6 @@
+#### **make sure you got nodeJS, git & obsidian installed and have a github account beforehand**
 - go to the folder where where you wanna keep the vault 
-- git clone the quartz repo and do this shit: 
+- git clone the quartz repo and do this goofy ahh stuff: 
 ```powershell fold
 git clone https://github.com/jackyzha0/quartz.git
 mv quartz vaultName
