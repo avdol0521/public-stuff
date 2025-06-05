@@ -5,7 +5,8 @@ tags:
 ---
 # Hey there. If Vorpidi shared this to you and you're new. This is the curriculum of the H4k2l1v3 community. Something you'll be very familiar with if you manage to join us (cult ahh sentence lmao). If you haven't joined us already and plan to. make sure to complete from Day 1 to at the very least Day 12 and note it down in Notion or a similar note taking software such as obsidian and host it publicly (see [[setting up quartz with obsidian to make a publicly accessible vault on the internet]] to know how to host obsidian vaults like i did here) so you can submit it as proof when the selection process begins. the videos are just there to give you a basic overview of the various topics you'll need to cover and in no way teaches you everything. make sure to do your own research on the topics
 - watch the first 15 minutes of this video to get an understanding of how we operate and what you will be doing once you join us: https://youtu.be/u91CS3oOvnI?t=25
-- make sure to join our discord server as well. its where we do everything: https://discord.gg/yyegxWyB
+- make sure to join our discord server as well. its where we do everything: https://discord.gg/VjsG3Nju
+	- tip: go to channels and roles and enable the "tryhackme roadmap" category. a ton of rooms are there for you to solve
 - oh and the Bangla videos (upto day 21) are mostly a mirror of these videos so you can follow these instead if you prefer English:
 	- part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM
 	- part 2: https://www.youtube.com/watch?v=sH4JCwjybGs
@@ -68,6 +69,7 @@ Outline :
 ##### some resources added by Vorpidi to the curriculum:
 - https://labex.io/skilltrees/linux
 - https://tryhackme.com/room/linuxfundamentalspart1
+- https://tryhackme.com/room/linuxstrengthtraining
 #### Day 5 : [User, Privileges & File System in Kali Linux | Ethical Hacking for Beginners in Bangla](https://youtu.be/-0d0rlvo47w?si=ejYLfcCLRAPBPv4f)
 
 Outline :
@@ -91,7 +93,7 @@ Outline :
 23. Started and stopping services
     
 24. Installing And Updating Tools
-    
+	
 #### Day 7 : [5 Stages of Hacking | Ethical Hacking Explained in Bangla | Beginner's Guide](https://youtu.be/VC-3AcVD5SQ?si=hhN9IamoyZ34G9w3)
 
 Outline :
@@ -108,7 +110,6 @@ Outline :
 - https://tryhackme.com/room/hackermethodology 
 - https://tryhackme.com/room/passiverecon 
 - https://tryhackme.com/room/activerecon 
-- https://tryhackme.com/room/ohsint 
 #### Day 8 : [Ethical Hacking in Bangla | SubDomain Enumeration explained for beginners](https://youtu.be/uu6hZntanfY?si=Uk1IZQ53ae57u1yg)
 
 Outline :
@@ -141,6 +142,8 @@ Outline :
     
 38. Utilizing social media
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/ohsint 
 #### Day 11 : [Ethical Hacking In Bangla | Installing Kioptrix | Hacking Lab For Beginners | Practical](https://youtu.be/7Q7oQPcW3JU)
 
 Outline :
@@ -154,13 +157,15 @@ Outline : 
 
 40. Scanning with nmap
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/furthernmap
 #### Day 13 : [Mastering HTTP Enumeration - Essential Guide for Ethical Hacking | Ethical Hacking In Bangla](https://youtu.be/FHqQf64AFqE?si=VwjQVPSmxmLIb5tT)
 
 Outline :
 
 41. Enumerating http/https
     
-#### Day 14 : 
+#### Day 14 : SMB and SSH Enumeration
 
 - video 1 :  [(445/139) SMB Enumeration Techniques | Bangla Tutorial | SMBClient, RPCClient, Enum4Linux,NMBLookup](https://youtu.be/xU2dnEIRtcw?si=G7BI8X6AJDwbg51D)
 - Video 2 :  [Day 14 : SMB & SSH Enumeration for Beginners | Ethical Hacking In Bangla](https://youtu.be/-lIjIcVS43s?si=g-ncc08SuHa_A6M7)
@@ -171,6 +176,8 @@ Outline :
     
 43. Enumerating ssh
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/networkservices
 #### Day 15 : [Vulnerability Analysis in Bangla – Uncover Security Threats | Ethical Hacking In Bangla](https://youtu.be/-tSEGq3sui0?si=X8J3U9BbfZFbGY2E)
 
 Outline : 
@@ -179,7 +186,9 @@ Outline : 
     
 45. Our notes revised
     
-#### Day 16 : 
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/vulnerabilities101
+#### Day 16 : Nessus
 
 Outline :
 
@@ -187,6 +196,8 @@ Outline :
     
 47. Scanning With Nessus
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/rpnessusredux
 #### Day 17 : [Exploiting Kioptrix with Metasploit | Reverse Shell/Bind Shell | Ethical Hacking In Bangla](https://youtu.be/jZ2_BAP08m0?si=rO-KwmeJrAkjvHTQ)
 
 Outline :
@@ -299,7 +310,7 @@ Outline :
 
 72. Ignite Cms exploitation 
     
-#### Day 27 : 
+#### Day 27 : SQL INJECTION (**make sure to learn how to manually do all the SQLi types from burp**)
 
 Room Link : [TryHackMe | SQHell](https://tryhackme.com/r/room/sqhell) 
 
@@ -311,6 +322,8 @@ Outline :
     
 75. Sql injection
     
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/sqlmap
 #### Day 28 : Room Link : [Basic Pentesting](https://tryhackme.com/r/room/basicpentestingjt) 
 
 VideoLink :  [Basic Pentesting TryHackMe Walkthrough in Bangla | eJPT & CEH Practical Preparation](https://youtu.be/N8gfLwwokNw?si=sp0dJgDDfLgyWdwS)
@@ -352,12 +365,18 @@ Room Link : [TryHackMe | GamingServer](https://tryhackme.com/r/room/gamingserver
 ####  Day 37 : [Blue TryHackMe Walkthrough in Bangla | hacking windows 7 | EternalBlue | ms17-010](https://youtu.be/nYmR8Yf9sJ8)
 
 Room Link : [TryHackMe | Blue](https://tryhackme.com/r/room/blue) 
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/windowsfundamentals1xbx 
+- https://tryhackme.com/room/windowsfundamentals2x0x 
+- https://tryhackme.com/room/windowsfundamentals3xzx
 #### Day 38 : [Hacking Windows 7 | ICE TryHackMe Walkthrough in Bangla | eJPT and CEH Practical Guide](https://youtu.be/AiM--qG69KY)
 
 Room Link : [TryHackMe | Ice](https://tryhackme.com/r/room/ice) 
 #### Day 39 : [Blaster TryHackMe Walkthrough in Bangla | hacking windows | UAC Bypass | eJPT & CEH Practical Guide](https://youtu.be/QdXPY0P11OU?si=WKOuuvGwI2aLo5NB)
 
 Room Link : [TryHackMe | Blaster](https://tryhackme.com/r/room/blaster) 
+##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/bypassinguac
 #### Day 40 : 
 
 Room Link : [https://tryhackme.com/r/room/steelmountain](https://tryhackme.com/r/room/steelmountain)   
