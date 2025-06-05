@@ -5,7 +5,7 @@ tags:
 ---
 # Hey there. If Vorpidi shared this to you and you're new. This is the curriculum of the H4k2l1v3 community. Something you'll be very familiar with if you manage to join us (cult ahh sentence lmao). If you haven't joined us already and plan to. make sure to complete from Day 1 to at the very least Day 12 and note it down in Notion or a similar note taking software such as obsidian and host it publicly (see [[setting up quartz with obsidian to make a publicly accessible vault on the internet]] to know how to host obsidian vaults like i did here) so you can submit it as proof when the selection process begins. the videos are just there to give you a basic overview of the various topics you'll need to cover and in no way teaches you everything. make sure to do your own research on the topics
 - watch the first 15 minutes of this video to get an understanding of how we operate and what you will be doing once you join us: https://youtu.be/u91CS3oOvnI?t=25
-- make sure to join our discord server as well. its where we do everything: https://discord.gg/VjsG3Nju
+- make sure to join our discord server as well. its where we do everything: https://discord.gg/zyrDWRqgM2
 	- tip: go to channels and roles and enable the "tryhackme roadmap" category. a ton of rooms are there for you to solve
 - oh and the Bangla videos (upto day 21) are mostly a mirror of these videos so you can follow these instead if you prefer English:
 	- part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM
