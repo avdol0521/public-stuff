@@ -323,6 +323,7 @@ Outline :
 75. Sql injection
     
 ##### some resources added by Vorpidi to the curriculum:
+- https://tryhackme.com/room/sqlinjectionlm
 - https://tryhackme.com/room/sqlmap
 #### Day 28 : Room Link : [Basic Pentesting](https://tryhackme.com/r/room/basicpentestingjt) 
 
