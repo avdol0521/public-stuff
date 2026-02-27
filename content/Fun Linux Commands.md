@@ -63,7 +63,7 @@ sudo apt install cowsay
 ```
 - launch:
 ```sh
-cowsay hello :)
+cowsay "hello :)"
 ```
 
 ```sh
