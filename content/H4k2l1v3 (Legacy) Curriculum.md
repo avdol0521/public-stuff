@@ -1,5 +1,5 @@
 ---
-title: H4k2l1v3 Curriculum
+title: H4k2l1v3 (Legacy) Curriculum
 tags:
   - child
 ---
